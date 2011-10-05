@@ -1,0 +1,23 @@
+{
+    "name": "banka"
+  , "version": "0.0.1"
+  , "description": "A RESTful mongodb server"
+  , "keywords": ["rest", "mongodb"]
+  , "author": "Vladimir Dronnikov <dronnikov@gmail.com>"
+  , "contributors": [
+    ]
+  , "dependencies": {
+    "underscore-data": "latest",
+    "mongolian": "latest"
+    }
+  , "repositories": [{
+      "type": "git",
+      "url" : "https://github.com/dvv/banka.git"
+    }]
+  , "licenses": [{
+      "type" : "MIT",
+      "url" : "https://github.com/dvv/banka/raw/master/LICENSE"
+    }]
+  , "scripts": {
+    }
+}
